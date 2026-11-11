@@ -8,7 +8,7 @@ Analysis of 141 Claude Code sessions from 2026-03-13 to 2026-04-10, totaling ~17
 
 | Phase | Dates | Focus | Sessions |
 |-------|-------|-------|----------|
-| **Research** | Mar 13–14 | Feasibility study, shared mutability analysis, pass-by-pass research | ~10 |
+| **Research** | Mar 13–15 | Feasibility study, shared mutability analysis, pass-by-pass research | ~10 |
 | **Planning** | Mar 14–16 | Architecture docs, numbered plans (0001–0005), scope types | ~15 |
 | **Core Implementation** | Mar 16–25 | Babel AST crate, HIR lowering, pass porting, BuildHIR | ~50 |
 | **Testing & Stabilization** | Mar 25–31 | Snap tests, test-rust-port 100%, OXC/SWC frontends | ~30 |
